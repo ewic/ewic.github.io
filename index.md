@@ -1,88 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eric Zhang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Eric Zhang
 
-<div id="webaddress">
+## Summary
+
+Most-of-the-Stack Web Developer based in Providence, RI. Primarily focused on front-end technologies, very interested in expanding to more back-end technologies. Team-player and team-builder.
+
+## Contact
+
+📧 ewicexclamationpoint@gmail.com
+
+📞 +1 (401) 426-1202
+
+<!-- <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+</div> -->
 
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
+- Javascript, TypeScript
+- NodeJS
+- Maven
+- Angular
+- React
+- Loopback ORM
+- Java, Springboot
+- Hibernate
+- Liquibase
+- BackboneJS
+- MySQL, MSSQL, just general SQL
+- Docker
+- Hyper-V
+- Just a touch of DevOps administration (SonarQube, Self-hosted GitLab solutions, DevOps Pipeline implementation)
+- Experienced with Linux, Windows, and Mac development environments.
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Northrup Grumman
 
+Middletown, RI
 
-### Research interests
+Feb 2017 - Present
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Worked on confidential projects involving React and Angular for the US Navy. Additional experience with Java project involving Springboot, Liquibase, and Hibernate. Various DevOps tasks, primarily Windows server administration with some components handled in Linux. Set up disconnected development ecosystem including NodeJS repository, Maven repository and self-managed GitLab and SonarQube environments. Experience working with virtualization technologies including Hyper-V and Qemu/KVM.
 
+### Virgin Pulse / ShapeUp
+
+Providence, RI
+
+Nov 2015 - Jul 2016
+
+Worked on a PHP-based health and wellness application. Built products in PHP with some JS components. Environment primarily consisted of Jquery and Backbone. Re-designed components to render correctly in legacy browsers such as IE.
+
+### InsureMyTrip
+
+Warwick, RI
+
+Jul 2014 - Nov 2015
+
+Worked on a PHP-based search aggregator for travel insurance products.  Designed and developed product implementations in PHP. Worked with a PHP and JS-based front end. Aided in a RabbitMQ implementation to collect site usage data and examine user behavior.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014`
+__Master of Business Administration, University of Rhode Island__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2010`
+__Bachelor of Science, Computer Science, University of Rhode Island__
 
 <!-- ### Footer
 
