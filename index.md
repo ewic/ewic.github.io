@@ -22,21 +22,7 @@ Most-of-the-Stack Web Developer based in Providence, RI. Primarily focused on fr
 
 ## Skills
 
-- Javascript, TypeScript
-- NodeJS
-- Maven
-- Angular
-- React
-- Loopback ORM
-- Java, Springboot
-- Hibernate
-- Liquibase
-- BackboneJS
-- MySQL, MSSQL, just general SQL
-- Docker
-- Hyper-V
-- Just a touch of DevOps administration (SonarQube, Self-hosted GitLab solutions, DevOps Pipeline implementation)
-- Experienced with Linux, Windows, and Mac development environments.
+Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Springboot, Hibernate, Liquibase, BackboneJS, MySQL, MSSQL, just general SQL, Docker, Hyper-V, DevOps administration (SonarQube, Self-hosted GitLab solutions, DevOps Pipeline implementation), Experienced with Linux, Windows, and Mac development environments.
 
 ## Work Experience
 
@@ -46,7 +32,7 @@ Middletown, RI
 
 Feb 2017 - Present
 
-Worked on confidential projects involving React and Angular for the US Navy. Additional experience with Java project involving Springboot, Liquibase, and Hibernate. Various DevOps tasks, primarily Windows server administration with some components handled in Linux. Set up disconnected development ecosystem including NodeJS repository, Maven repository and self-managed GitLab and SonarQube environments. Experience working with virtualization technologies including Hyper-V and Qemu/KVM.
+Worked on confidential projects involving React and Angular for the US Navy. Additional experience with Java projects involving Springboot, Liquibase, and Hibernate. Various DevOps tasks, primarily Windows server administration with some components handled in Linux. Set up disconnected development ecosystem including NodeJS repository, Maven repository and self-managed GitLab and SonarQube environments. Experience working with virtualization technologies including Hyper-V and Qemu/KVM.
 
 ### Virgin Pulse / ShapeUp
 
