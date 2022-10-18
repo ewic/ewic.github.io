@@ -26,7 +26,7 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 
 ## Work Experience
 
-### Northrup Grumman
+### Northrop Grumman
 
 Middletown, RI
 
