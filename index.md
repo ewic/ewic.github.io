@@ -14,12 +14,6 @@ Most-of-the-Stack Web Developer based in Providence, RI. Primarily focused on fr
 
 📞 +1 (401) 426-1202
 
-<!-- <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
-
-
 ## *Skills*
 
 Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Springboot, Hibernate, Liquibase, BackboneJS, MySQL, MSSQL, just general SQL, Docker, Hyper-V, DevOps administration (SonarQube, Self-hosted GitLab solutions, DevOps Pipeline implementation), Experienced with Linux, Windows, and Mac development environments.
