@@ -57,7 +57,7 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 
 `Nov 2015-Jul 2016`
 
-- Contributed to a Health and Wellness Web Platform.
+- Contributed to a Health and Wellness Web Platform based in PHP and MariaDB.
 - Built using PHP backend, Vanilla JS with BackboneJS and modified implementation of JQuery.
 - Rebuilt components to render correctly in legaacy browsers.
 
