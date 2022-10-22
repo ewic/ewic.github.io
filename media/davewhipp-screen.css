@@ -32,7 +32,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	width: 55%;
+	/* list-style: none; */
 }
 blockquote, q {
 	quotes: none;
@@ -87,7 +88,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }

@@ -28,7 +28,9 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 
 `Dec 2021-Sep 2022`
 
-- Contributed to a Learning Management System based in Springboot and Angular
+- Contributed to a Learning Management System based in Springboot and Angular.
+- Project designed to be database-agnostic.
+- Most deployments implemented using JBoss and MSSQL.
 - Project constraints include disconnected environment and legacy software packages.
 - Led initiative to modernize documentation and practices.
 - Participated in daily scrum and planning meetings.
@@ -42,7 +44,8 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 `Feb 2017-Present`
 
 - Designed and developed purpose-built inventory management system to generate mixed confidential and non-confidential dataset.
-- System built using NodeJS, React, Loopback, Typescript
+- System built using NodeJS, React, Loopback, Typescript, Material-UI, MariaDB, .
+- Built Database Denormalization Utility
 - Implemented self-managed GitLab installation.
 - Built DevOps pipeline using CentOS 7, CentOS 8 Stream, Docker, and KVM.
 
@@ -54,8 +57,8 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 
 `Nov 2015-Jul 2016`
 
-- Contributed to a Health and Wellness Application
-- Built using PHP backend, Vanilla JS with BackboneJS and modified implementation of JQuery
+- Contributed to a Health and Wellness Web Platform.
+- Built using PHP backend, Vanilla JS with BackboneJS and modified implementation of JQuery.
 - Rebuilt components to render correctly in legaacy browsers.
 
 <!-- Worked on a PHP-based health and wellness application. Built products in PHP with some JS components. Environment primarily consisted of Jquery and Backbone. Re-designed components to render correctly in legacy browsers such as IE. -->
