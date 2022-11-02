@@ -49,7 +49,7 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 - Implemented self-managed GitLab installation.
 - Built DevOps pipeline using CentOS 7, CentOS 8 Stream, Docker, and KVM.
 
-### *Virgin Pulse / ShapeUp*
+## Virgin Pulse / ShapeUp
 
 `Providence, RI`
 
@@ -63,7 +63,7 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 
 <!-- Worked on a PHP-based health and wellness application. Built products in PHP with some JS components. Environment primarily consisted of Jquery and Backbone. Re-designed components to render correctly in legacy browsers such as IE. -->
 
-### *InsureMyTrip*
+## InsureMyTrip
 
 `Warwick, RI`
 
@@ -71,9 +71,9 @@ Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Sprin
 
 `Jul 2014-Nov 2015`
 
-- Worked on a PHP-based search aggregator for travel insurance products.  
-- Designed and developed product implementations in PHP. Worked with a PHP and JS-based front end. 
-- Aided in a RabbitMQ implementation to collect site usage data and examine user behavior.
+- Worked on a PHP-based search aggregator for travel insurance products.
+- Developed product implementations in PHP. 
+- Implemented RabbitMQ message queries to log customer behavior data.
 
 ## Education
 
