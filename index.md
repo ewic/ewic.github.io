@@ -18,7 +18,7 @@ Most-of-the-Stack Web Developer based in Providence, RI. Primarily focused on fr
 
 Javascript, TypeScript, NodeJS, Maven, Angular, React, Loopback ORM, Java, Springboot, Hibernate, Liquibase, BackboneJS, MySQL, MSSQL, just general SQL, Docker, Hyper-V, DevOps administration (SonarQube, Self-hosted GitLab solutions, DevOps Pipeline implementation), Experienced with Linux, Windows, and Mac development environments.
 
-## *Work Experience*
+# *Work Experience*
 
 ## Northrop Grumman
 
